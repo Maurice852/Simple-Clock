@@ -1,0 +1,10 @@
+C:\Users\ekkel\source\repos\Klok4\Klok4\bin\Debug\Klok4.exe.config
+C:\Users\ekkel\source\repos\Klok4\Klok4\bin\Debug\Klok4.exe
+C:\Users\ekkel\source\repos\Klok4\Klok4\bin\Debug\Klok4.pdb
+C:\Users\ekkel\source\repos\Klok4\Klok4\obj\Debug\Klok4.csprojAssemblyReference.cache
+C:\Users\ekkel\source\repos\Klok4\Klok4\obj\Debug\Klok4.Form1.resources
+C:\Users\ekkel\source\repos\Klok4\Klok4\obj\Debug\Klok4.Properties.Resources.resources
+C:\Users\ekkel\source\repos\Klok4\Klok4\obj\Debug\Klok4.csproj.GenerateResource.cache
+C:\Users\ekkel\source\repos\Klok4\Klok4\obj\Debug\Klok4.csproj.CoreCompileInputs.cache
+C:\Users\ekkel\source\repos\Klok4\Klok4\obj\Debug\Klok4.exe
+C:\Users\ekkel\source\repos\Klok4\Klok4\obj\Debug\Klok4.pdb
